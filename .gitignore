@@ -1,0 +1,6 @@
+/env
+/i2c.py
+/main.py
+/test.py
+/test_htu31d.py
+/__pycache__
